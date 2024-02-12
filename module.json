@@ -23,7 +23,7 @@
     }
   ],
   "socket": true,
-  "url": "https://github.com/ardittristan/VTTStreamUtils",
+  "url": "https://github.com/elixirart/VTTStreamUtils",
   "manifest": "https://raw.githubusercontent.com/elixirart/VTTStreamUtils/master/module.json",
   "download": "https://github.com/elixirart/VTTStreamUtils/releases/latest/download/streamUtils.zip",
   "library": true,
