@@ -2,12 +2,12 @@ body.stream #hpApp {
   width: max-content;
   border: none;
   background: none;
-  font-family: "Press Start 2P", cursive;
+  font-family: "Press Start 2P", system-ui;
 }
 
 body.stream #hpApp .hp {
   margin-right: 0.75em;
-  font-family: "Press Start 2P", cursive;
+  font-family: "Press Start 2P", system-ui;
 }
 
 body.stream #hpApp .hp .fas.fa-heart {
